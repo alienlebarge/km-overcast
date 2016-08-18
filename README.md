@@ -8,3 +8,5 @@ Keyboard Maestro macros to control Overcast with Fluid
     - `CTRL+SHIF+7`: Back
     - `CTRL+SHIF+8`: Play/Pause
     - `CTRL+SHIF+9`: Forward
+
+[More info here](http://www.alienlebarge.ch/2016/08/18/overcast)
